@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Mypc_Dil2\\2021-10-OnwardsDil2\\Mywork-WebApps\\3_AddservicesApi\\AddServices\\EmailService\\EmailService.csproj": {}
+  },
+  "projects": {
+    "E:\\Mypc_Dil2\\2021-10-OnwardsDil2\\Mywork-WebApps\\3_AddservicesApi\\AddServices\\EmailService\\EmailService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Mypc_Dil2\\2021-10-OnwardsDil2\\Mywork-WebApps\\3_AddservicesApi\\AddServices\\EmailService\\EmailService.csproj",
+        "projectName": "EmailService",
+        "projectPath": "E:\\Mypc_Dil2\\2021-10-OnwardsDil2\\Mywork-WebApps\\3_AddservicesApi\\AddServices\\EmailService\\EmailService.csproj",
+        "packagesPath": "C:\\Users\\easy com\\.nuget\\packages\\",
+        "outputPath": "E:\\Mypc_Dil2\\2021-10-OnwardsDil2\\Mywork-WebApps\\3_AddservicesApi\\AddServices\\EmailService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\easy com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Mypc_Dil2\\2021-10-OnwardsDil2\\Mywork-WebApps\\3_AddservicesApi\\AddServices\\EmailService\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
