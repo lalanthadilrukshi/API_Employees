@@ -10180,11 +10180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dil\\temp\\bitBucket\\AddServices_APIForReact\\AddServices\\AddServices.csproj",
+      "projectUniqueName": "E:\\dil\\temp\\bitBucket\\PushedToGit\\2_EmployeesAPI\\AddServices\\AddServices.csproj",
       "projectName": "AddServices",
-      "projectPath": "E:\\dil\\temp\\bitBucket\\AddServices_APIForReact\\AddServices\\AddServices.csproj",
+      "projectPath": "E:\\dil\\temp\\bitBucket\\PushedToGit\\2_EmployeesAPI\\AddServices\\AddServices.csproj",
       "packagesPath": "C:\\Users\\dilracing\\.nuget\\packages\\",
-      "outputPath": "E:\\dil\\temp\\bitBucket\\AddServices_APIForReact\\AddServices\\obj\\",
+      "outputPath": "E:\\dil\\temp\\bitBucket\\PushedToGit\\2_EmployeesAPI\\AddServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dilracing\\AppData\\Roaming\\NuGet\\NuGet.Config",
